@@ -2,6 +2,10 @@
 
 A curated collection of notable tech influencers, software engineers, and tech content creators across social media platforms worth following for tech content, tutorials, career advice, and industry insights.
 
+# Contributing
+
+To add account(s), open a PR with the creator(s) handles(s) in the README and csv file.
+
 ## Tech/SWE/CS Influencers
 
 | instagram_handle | tiktok_handle |
