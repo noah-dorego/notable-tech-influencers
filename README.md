@@ -52,6 +52,7 @@ To add account(s), open a PR with the creator(s) handles(s) in the README and cs
 | ijustine | ijustine |
 | its_deego | its_deego |
 | itsnav.k | itsnav.k |
+| jakebeau_ | jakebeau_ |
 | jameelcodes | j.codesfullstack |
 | jgao.mp4 | jgao.mp4 |
 | kevinbebuilding | kevinbebuilding |
